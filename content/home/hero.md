@@ -33,14 +33,14 @@ Docente
 
     <!-- Identify your business so that you can collect the payments. -->
     <input type="hidden" name="business"
-        value="donations@kcparkfriends.org">
+        value="ernestomiquel@gmail.com">
 
     <!-- Specify a Donate button. -->
     <input type="hidden" name="cmd" value="_donations">
 
     <!-- Specify details about the contribution -->
-    <input type="hidden" name="item_name" value="Friends of the Park">
-    <input type="hidden" name="item_number" value="Fall Cleanup Campaign">
+    <input type="hidden" name="item_name" value="Friends of Ernesto">
+    <input type="hidden" name="item_number" value="I need money">
     <input type="hidden" name="currency_code" value="USD">
 
     <!-- Display the payment button. -->
