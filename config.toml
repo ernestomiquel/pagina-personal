@@ -229,21 +229,24 @@ enableGitInfo = false
     link = "mailto:miquel@fmed.edu.uy"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/ernestomiquel"
-
-  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=SDIU7ckAAAAJ"
 
   [[params.social]]
     icon = "researchgate"
-    icon_pack = "fa"
+    icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Ernesto_Miquel"
     
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/ernestomiquel"
 
+[[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "https://www.instagram.com/ernestomiquel/"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
