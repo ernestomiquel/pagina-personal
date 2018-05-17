@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Neuroscience"
+  course = "PhD Neuroscience"
   institution = "Universidad de la República, Uruguay"
   year = in progress
 
